@@ -3,7 +3,7 @@ package chart
 import (
 	"sync"
 
-	"github.com/golang/freetype/truetype"
+	"github.com/iesreza/freetype/truetype"
 	"github.com/wcharczuk/go-chart/roboto"
 )
 

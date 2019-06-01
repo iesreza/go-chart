@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/golang/freetype/truetype"
+	"github.com/iesreza/freetype/truetype"
 )
 
 // StackGraphicContext is a context that does thngs.

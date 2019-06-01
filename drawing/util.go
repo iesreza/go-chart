@@ -6,7 +6,7 @@ import (
 	"golang.org/x/image/math/fixed"
 
 	"github.com/golang/freetype/raster"
-	"github.com/golang/freetype/truetype"
+	"github.com/iesreza/freetype/truetype"
 )
 
 // PixelsToPoints returns the points for a given number of pixels at a DPI.

@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/golang/freetype/truetype"
+	"github.com/iesreza/freetype/truetype"
 )
 
 // GraphicContext describes the interface for the various backends (images, pdf, opengl, ...)

@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/image/font"
 
-	"github.com/golang/freetype/truetype"
+	"github.com/iesreza/freetype/truetype"
 	"github.com/wcharczuk/go-chart/drawing"
 	"github.com/wcharczuk/go-chart/util"
 )

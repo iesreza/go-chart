@@ -7,7 +7,7 @@ import (
 	"math"
 
 	"github.com/golang/freetype/raster"
-	"github.com/golang/freetype/truetype"
+	"github.com/iesreza/freetype/truetype"
 	"golang.org/x/image/draw"
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
