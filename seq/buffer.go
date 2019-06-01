@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	util "github.com/wcharczuk/go-chart/util"
+	util "github.com/iesreza/go-chart/util"
 )
 
 const (

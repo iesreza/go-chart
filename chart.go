@@ -6,8 +6,8 @@ import (
 	"io"
 	"math"
 
-	"github.com/iesreza/freetype/truetype"
-	util "github.com/wcharczuk/go-chart/util"
+	"github.com/adnsv/freetype/truetype"
+	util "github.com/iesreza/go-chart/util"
 )
 
 // Chart is what we're drawing.

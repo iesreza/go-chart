@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/iesreza/freetype/truetype"
+	"github.com/adnsv/freetype/truetype"
 )
 
 // GraphicContext describes the interface for the various backends (images, pdf, opengl, ...)

@@ -3,7 +3,7 @@ package drawing
 import (
 	"image/color"
 
-	"github.com/iesreza/freetype/truetype"
+	"github.com/adnsv/freetype/truetype"
 )
 
 // FillRule defines the type for fill rules

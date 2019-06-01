@@ -1,7 +1,7 @@
 package drawing
 
 import (
-	"github.com/iesreza/freetype/truetype"
+	"github.com/adnsv/freetype/truetype"
 	"golang.org/x/image/math/fixed"
 )
 

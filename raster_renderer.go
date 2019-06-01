@@ -6,9 +6,9 @@ import (
 	"io"
 	"math"
 
-	"github.com/iesreza/freetype/truetype"
-	"github.com/wcharczuk/go-chart/drawing"
-	"github.com/wcharczuk/go-chart/util"
+	"github.com/adnsv/freetype/truetype"
+	"github.com/iesreza/go-chart/drawing"
+	"github.com/iesreza/go-chart/util"
 )
 
 // PNG returns a new png/raster renderer.

@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/iesreza/freetype/truetype"
+	"github.com/adnsv/freetype/truetype"
 )
 
 // StackGraphicContext is a context that does thngs.
